@@ -3,10 +3,6 @@ import javax.swing.*;
 import java.util.List;
 import java.awt.*;
 
-// Debug options {
-//  JOptionPane.showMessageDialog(null, interSection.getLight());
-// }
-
 /***************************************************
  * Main program
  * 
@@ -16,7 +12,7 @@ import java.awt.*;
  * - Handle score board
  * - Handle lights once world is fulled, algorithm activated
  * 
- * @author (Niels en Yorick) 
+ * @author (Yorick)
  * @version (1.5)
  ***************************************************/
 
