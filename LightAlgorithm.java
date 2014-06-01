@@ -8,7 +8,7 @@ import javax.swing.*;
  * - Return next light on the list
  * - Move pointer up the linked list
  * 
- * @author (Niels en Yorick) 
+ * @author (Yorick) 
  * @version (0.141592654)
  ***************************************************/
 
