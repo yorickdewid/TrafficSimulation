@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=ds
+comment1.target=void\ setDestination(int)
+comment1.text=Where\ are\ we\ going\ to?
+numComments=2
